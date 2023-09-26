@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CyberShadow7
 - 👀 I’m interested in Cyber Security and Programming
-- 🌱 I’m currently learning Cyber Security (Hack The Box) and Go, Ruby, Python3
+- 🌱 I’m currently learning Cyber Security/Penetration Testing (Hack The Box) and Go, Ruby, Python3
 - 💞️ I’m looking to collaborate on anything I can. Contact me and I will reply if I know how to help.
 - 📫 How to reach me : Preferably through GitHub but my Instagram is @pr0j3ct1. Send me a message saying you found me through GitHub and you are looking to collaborate so that I accept you ;)
 
