@@ -1,13 +1,14 @@
 - 👋 Hi, I’m @CyberShadow7
-- 👀 I’m interested in Cyber Security and Programming
-- 🌱 I’m currently learning Cyber Security/Penetration Testing (Hack The Box) and Go, Ruby, Python3
-- 💞️ I’m looking to collaborate on anything I can. Contact me and I will reply if I know how to help.
+- 👀 I’m interested in Penetration Testing and Programming
+- 🌱 I’m currently learning Penetration Testing (Hack The Box) and Go, Rust, Assembly
+- 💞️ I’m looking to collaborate on anything I can. Contact me and I will reply if I know how to help
 - 📫 How to reach me : Preferably through GitHub. Send me a message!
 
-I am currently working on mini-games which work mostly on command-line. I have made my own MSF modules as well (in Ruby but I don't remember much specifics of MSF3).
-I also make some automations in case someone needs that automation because of IoT or other personal reasons.
-Contact me if you need an automation of some commands into one and preferably also tell me the language you would like it in.
+I am currently working on mini-games which work mostly on command-line. I have made my own MSF modules as well (in Ruby but I don't remember much specifics of the MSF3 engine).
 
+I also make some automations tools which I find useful.
+
+Open to opportunities!
 
 Thank you for your time :)
 
