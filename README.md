@@ -6,7 +6,7 @@
 
 I am currently working on mini-games which work mostly on command-line. I have made my own MSF modules as well (in Ruby but I don't remember much specifics of the MSF3 engine).
 
-I also make some automations tools which I find useful.
+I also make some automation scripts, which I find useful.
 
 Open to opportunities!
 
